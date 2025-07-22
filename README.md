@@ -20,4 +20,4 @@ The project was created to:
 
 This is a simple demonstration project - no backend authentication is implemented.
 
-<img title="a title" alt="Alt text" src="/screenshot.png">
+<img title="a title" width="50" hight="100" alt="Alt text" src="/screenshot.png">
