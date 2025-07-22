@@ -1,16 +1,23 @@
 # simple_login_page
 
-A new Flutter project.
+A simple and clean login page built with Flutter as part of my learning journey and portfolio development.
+
+## Purpose
+The project was created to:
+- Pratice Flutter UI developmen
+- Demonstrate basic form handling
+
+## Technologies Used
+- Flutter framework
+- Dart programming language
 
 ## Getting Started
+- Ensure Flutter is installed and configured
+- Clone this repository
+- Run flutter pub get to install dependencies
+- Run flutter run to launch the app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is a simple demonstration project - no backend authentication is implemented.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img title="a title" alt="Alt text" src="/screenshot.png">
